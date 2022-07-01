@@ -1,0 +1,11 @@
+Hey There!, This is an Updated Version of Object Detection System; This project has both live object detection and Image based Object Detection.
+
+This Program can Identify 80 different objects by using YOLO Algorithm.
+
+To provide ease of Access, Voice command can also be used to give commands.
+
+During Program Execution You'll be able to hear the name of Objects found during Scan...
+
+Thank You
+
+Created by: Aditya Pathak
